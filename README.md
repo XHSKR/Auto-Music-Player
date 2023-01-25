@@ -1,5 +1,7 @@
 # Auto-Music-Player
 Play music in the folder at the designated time.
+
+![](screenshot.png)
 ## Steps
 Copying the code from RAW is recommended. (Downloading as zip may result in unintentional error due to filetype)
 1. Copy the code and Paste in notepad and save as BAT.
